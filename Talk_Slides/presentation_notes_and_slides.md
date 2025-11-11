@@ -30,9 +30,22 @@ https://github.com/ekala-project/eka/tree/master/docs/talks/examples
 
 
 
+# 20251024 - Introduction to Coze - zamicol (Zach Collier)
+https://www.youtube.com/watch?v=5dxpcJ8FbPk
+Coze is a cryptographic JSON messaging specification that uses digital signatures and hashes to ensure secure, human-readable, and interoperable communication.
+
+The meat of the presentation starts @27:30
+
+https://github.com/Cyphrme/Coze
 
 
-# 202510 Structured Documentation the Backbone of Cyber Resilience for IT Operations Michael Lamb
+https://docs.google.com/presentation/d/1bVojfkDs7K9hRwjr8zMW-AoHv5yAZjKL9Z3Bicz5Too/edit?slide=id.g121f82e33f2_0_0#slide=id.g121f82e33f2_0_0
+
+
+
+
+
+# 20251007 Structured Documentation: The Backbone of Cyber Resilience for IT Operations Michael Lamb
 https://www.youtube.com/watch?v=_30vFripcKI
 
 
@@ -41,12 +54,22 @@ https://www.youtube.com/watch?v=_30vFripcKI
 
 
 
+# 20250902 - Csilla Brimer - Tools to Fight Back Against the Darkness
+https://www.youtube.com/watch?v=K8dCp8CVxZ4
+Join us to hear from our guest speaker, Csilla Brimer, a relentlessly cheerful privacy advocate and author of Gamify or Die, Blockchain Gamification, and Monero advocate.
+
+Slides:
+https://www.canva.com/design/DAGwnojVSHc/cwkgi657ChNh12Dd6aJcnw/view?utm_content=DAGwnojVSHc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb4721480ec
 
 
 
 
 
-# @kurodensetsu (Nathan Ritchie):
+
+
+
+
+# 20250603 OpenSense - @kurodensetsu (Nathan Ritchie):
 https://docs.google.com/presentation/d/15zBU1jI9eLAXlFbztQJN7sYfiKCDrH7TiT1jEF4cE6Q/edit?slide=id.g35e1fd85295_0_454#slide=id.g35e1fd85295_0_454
 
 
@@ -57,7 +80,7 @@ https://docs.google.com/presentation/d/15zBU1jI9eLAXlFbztQJN7sYfiKCDrH7TiT1jEF4c
 
 
 
-# qbit (Aaron Bieber): 
+# 20250401 OpenBSD the Little OS That Could - qbit (Aaron Bieber): 
 https://github.com/qbit/openbsd-tlotc/tree/main
 
 
@@ -65,15 +88,6 @@ https://github.com/qbit/openbsd-tlotc/tree/main
 
 
 
-
-
-
-
-# 20250902 - Csilla Brimer - Tools to Fight Back Against the Darkness
-Join us to hear from our guest speaker, Csilla Brimer, a relentlessly cheerful privacy advocate and author of Gamify or Die, Blockchain Gamification, and Monero advocate.
-
-Slides:
-https://www.canva.com/design/DAGwnojVSHc/cwkgi657ChNh12Dd6aJcnw/view?utm_content=DAGwnojVSHc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb4721480ec
 
 
 
@@ -93,7 +107,3 @@ https://www.canva.com/design/DAGwnojVSHc/cwkgi657ChNh12Dd6aJcnw/view?utm_content
 https://docs.google.com/presentation/d/1udeZyLyzeN82d4wHegeISM8aNJj8lEkl/edit?usp=sharing&ouid=112649556199426365922&rtpof=true&sd=true
 
 
-# 20251024 - Introduction to Coze - zamicol (Zach Collier)
-
-https://www.youtube.com/watch?v=5dxpcJ8FbPk
-https://docs.google.com/presentation/d/1bVojfkDs7K9hRwjr8zMW-AoHv5yAZjKL9Z3Bicz5Too/edit?slide=id.g121f82e33f2_0_0#slide=id.g121f82e33f2_0_0
