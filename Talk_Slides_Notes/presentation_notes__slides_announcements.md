@@ -138,7 +138,7 @@ Slides: https://github.com/zamicol/PuebloCyberpunks/blob/master/Talk_Slides/2025
 ##########################
 ##########################
 ##########################
-# 20250603 OpenSense - @kurodensetsu (Nathan Ritchey):
+# 20250603 OpenSense - Nathan Ritchey:
 https://www.youtube.com/watch?v=RW8IIDCaEI8
 Join network engineer Nathan Ritchey as he dives into OPNsense, the powerful
 open-source firewall and router forked from pfSense, built on FreeBSD with a
@@ -191,3 +191,201 @@ https://docs.google.com/presentation/d/1udeZyLyzeN82d4wHegeISM8aNJj8lEkl/edit?us
 
 Talk given: 20241001
 Slides: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+# Past Emails
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+
+
+
+
+
+
+
+
+
+
+
+##########################
+##########################
+# 20251112
+Dear Colleagues,
+
+The Southern Colorado Information Systems Security Association (ISSA) Chapter,
+is thrilled to announce the launch of PuebloCyberpunks.com, YouTube and Odysee
+channel, and Signal chat!  Past presentations have been uploaded.
+
+Website: PuebloCyberpunks.com
+Youtube: https://www.youtube.com/@PuebloCyberpunks
+Odysee: https://odysee.com/@PuebloCyberpunks
+Signal chat: https://signal.group/#CjQKIEq8ueKbhH9e-sAIwXuno6ruj01VjdRsmGd68qk2JDEqEhAJhupv_Hdggvzw_cUX-2Rb
+
+The most recent talk, "Nix Sucks; Everything else is Worse: Building Better
+Software Supply Chains" by Tim DeHerrera, already has 11,000 views! 👏👏👏 (What
+a great response!) Links to the talk:
+https://youtu.be/L8BBtBZXKac
+https://odysee.com/@nrdxp:6/Nix-Sucks-Everything-else-is-Worse:4
+
+
+################
+# Call for Speakers
+################
+We are looking for speakers for next year.  If you have a topic you would
+like to present, we want to hear from you!  Also, if you have any ideas for
+speakers, please send me their name and contact information. 
+
+
+################
+# Announcements
+################
+Our next meeting is December 2nd with a presentation by Josh Chase!  It's going to be awesome!
+
+"Hack Trinidad Forward" Hackathon
+Date: November 14–16  
+Location: Emergent Campus  
+Open to: Everyone (individuals or small teams)  
+Registration: Open now → https://www.hacktrinidadforward.io
+
+
+Rocky Mountain AFCEA & ISSA Colorado Springs Joint Networking Event
+Date: November 13th, 2025
+Time: 6:00 PM – 8:00 PM
+Location: ViewHouse Eatery, Bar & Rooftop
+7114 Campus Drive, Colorado Springs, CO 80920
+Hosted by: Beacon Hill IT  
+
+Cyber Security First Friday November 2025 4 PM
+Location: National Cybersecurity Center (NCC), Colorado Springs
+
+The PCC AI Conference is this month.
+
+
+################
+# Closing
+################
+
+We look forward to seeing you in person and online!
+
+Best regards,
+
+Zach Collier 
+Chapter President Southern Colorado ISSA Chapter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+# Social Media Posts
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+##########################
+
+
+# 20251112
+Title: Did you know Pueblo has a thriving tech community?  Join us!
+
+Body:
+Subscribe to our mailing list for more information! https://docs.google.com/forms/d/e/1FAIpQLSd5-gkM53lIZBNpfYb2nQLgFVkVnLet5iOBYCEF15ZNIKJtfQ/viewform
+
+Also, see our website for more information: https://PuebloCyberpunks.com
+
+ISSA Pueblo is a dynamic community of cybersecurity professionals, enthusiasts, students, and innovators dedicated to advancing information systems and security in Southern Colorado. We foster collaboration, knowledge-sharing, and professional growth through engaging meetups, expert-led presentations, and hands-on workshops on topics like secure software supply chains, cyber resilience, and emerging threats. Whether you're a seasoned infosec expert or just starting your journey, join us to connect with like-minded peers, stay ahead of evolving risks, and contribute to a safer digital future.
+
+Check out our past presentations for a taste of the cutting-edge discussions that define our culture.
+
+Ready to level up? Attend a meeting and plug into the cyberpunk revolution in Pueblo!
+
+
+What are our meetings like?  Watch a video to get a taste!
+The most recent talk, "Nix Sucks; Everything else is Worse: Building Better
+Software Supply Chains" by Tim DeHerrera, already has 11,000 views! 👏👏👏 (What
+a great response!) Links to the talk:
+
+https://youtu.be/L8BBtBZXKac
+https://odysee.com/@nrdxp:6/Nix-Sucks-Everything-else-is-Worse:4
