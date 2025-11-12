@@ -138,7 +138,7 @@ Slides: https://github.com/zamicol/PuebloCyberpunks/blob/master/Talk_Slides/2025
 ##########################
 ##########################
 ##########################
-# 20250603 OpenSense - @kurodensetsu (Nathan Ritchie):
+# 20250603 OpenSense - @kurodensetsu (Nathan Ritchey):
 https://www.youtube.com/watch?v=RW8IIDCaEI8
 Join network engineer Nathan Ritchey as he dives into OPNsense, the powerful
 open-source firewall and router forked from pfSense, built on FreeBSD with a
