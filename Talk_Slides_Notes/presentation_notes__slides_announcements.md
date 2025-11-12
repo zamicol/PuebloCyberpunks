@@ -371,21 +371,29 @@ Chapter President Southern Colorado ISSA Chapter
 Title: Did you know Pueblo has a thriving tech community?  Join us!
 
 Body:
-Subscribe to our mailing list for more information! https://docs.google.com/forms/d/e/1FAIpQLSd5-gkM53lIZBNpfYb2nQLgFVkVnLet5iOBYCEF15ZNIKJtfQ/viewform
+Subscribe to our mailing list for more information!
+https://docs.google.com/forms/d/e/1FAIpQLSd5-gkM53lIZBNpfYb2nQLgFVkVnLet5iOBYCEF15ZNIKJtfQ/viewform
 
-Also, see our website for more information: https://PuebloCyberpunks.com
+See our website for more information: https://PuebloCyberpunks.com
 
-ISSA Pueblo is a dynamic community of cybersecurity professionals, enthusiasts, students, and innovators dedicated to advancing information systems and security in Southern Colorado. We foster collaboration, knowledge-sharing, and professional growth through engaging meetups, expert-led presentations, and hands-on workshops on topics like secure software supply chains, cyber resilience, and emerging threats. Whether you're a seasoned infosec expert or just starting your journey, join us to connect with like-minded peers, stay ahead of evolving risks, and contribute to a safer digital future.
+ISSA Pueblo is a dynamic community of cybersecurity professionals, enthusiasts,
+students, and innovators dedicated to advancing information systems and security
+in Southern Colorado. We foster collaboration, knowledge-sharing, and
+professional growth through engaging meetups, expert-led presentations, and
+hands-on workshops on topics like secure software supply chains, cyber
+resilience, and emerging threats. Whether you're a seasoned infosec expert or
+just starting your journey, join us to connect with like-minded peers, stay
+ahead of evolving risks, and contribute to a safer digital future.
 
-Check out our past presentations for a taste of the cutting-edge discussions that define our culture.
+Ready to level up? Attend a meeting and plug into the cyberpunk revolution in
+Pueblo!
 
-Ready to level up? Attend a meeting and plug into the cyberpunk revolution in Pueblo!
-
-
-What are our meetings like?  Watch a video to get a taste!
-The most recent talk, "Nix Sucks; Everything else is Worse: Building Better
-Software Supply Chains" by Tim DeHerrera, already has 11,000 views! 👏👏👏 (What
-a great response!) Links to the talk:
-
+Check out our past presentations for a taste of the cutting-edge discussions
+that define our culture. The most recent talk, "Nix Sucks; Everything else is
+Worse: Building Better Software Supply Chains" by Tim DeHerrera, already has
+11,000 views! 👏👏👏 (What a great response!) Links to the talk:
 https://youtu.be/L8BBtBZXKac
 https://odysee.com/@nrdxp:6/Nix-Sucks-Everything-else-is-Worse:4
+
+
+We look forward to seeing you in person and online!
