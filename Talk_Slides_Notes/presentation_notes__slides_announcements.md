@@ -1,4 +1,3 @@
-
 PuebloCyberpunks.com
 https://www.youtube.com/@PuebloCyberpunks
 https://odysee.com/@PuebloCyberpunks
@@ -10,6 +9,33 @@ https://odysee.com/@PuebloCyberpunks
 
 
 
+
+
+
+
+
+
+
+
+
+##########################
+##########################
+##########################
+# 20260602 - The Evolving Playbook of Industrial Control System (ICS) Cyberattacks - Austin Tapia
+https://youtu.be/t0ubq6xvXcE
+
+Slides:
+https://pueblocyberpunks.com/Talk_Slides_Notes/The Evolving Playbook of ICS Cyberattacks.pptx
+https://docs.google.com/presentation/d/1udeZyLyzeN82d4wHegeISM8aNJj8lEkl
+
+
+
+##########################
+##########################
+##########################
+# 20260407 - Vibe Hacking -  A Taxonomy of LLM Jailbreaks
+https://youtu.be/X3OZOGuKuis
+Slides: https://pueblocyberpunks.com/Talk_Slides_Notes/vibe%20hacking%20presentation.odp
 
 
 ##########################
