@@ -38,6 +38,28 @@ https://youtu.be/X3OZOGuKuis
 Slides: https://pueblocyberpunks.com/Talk_Slides_Notes/vibe%20hacking%20presentation.odp
 
 
+
+
+##########################
+##########################
+##########################
+# Building Networks with Reticulum - Aaron Bieber
+
+Slides:
+https://pueblocyberpunks.com/Talk_Slides_Notes/building_networks_with_reticulum.pdf
+https://exo.suah.dev/20251203073916-building_networks_with_reticulum.html
+https://exo.suah.dev/20251203073916-building_networks_with_reticulum.pdf
+
+
+
+
+
+
+
+
+
+
+
 ##########################
 ##########################
 ##########################
